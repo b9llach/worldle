@@ -18,9 +18,9 @@ def haversine(lat1, lon1, lat2, lon2):
     return c * r
 
 countries = [
-    {"name": "Afghanistan", "lat": 33, "long": 66, "pic": "imgs/af-512.png"},
-    {"name": "Albania", "lat": 41, "long": 20, "pic": "imgs/al-512.png"},
-    {"name": "Algeria", "lat": 28, "long": 3, "pic": "imgs/af-512.png"},
+    {"name": "Afghanistan", "lat": 33, "long": 66},
+    {"name": "Albania", "lat": 41, "long": 20},
+    {"name": "Algeria", "lat": 28, "long": 3},
     {"name": "Andorra", "lat": 42.5, "long": 1.5},
     {"name": "Angola", "lat": -12.5, "long": 18.5},
     {"name": "Antigua and Barbuda", "lat": 17.05, "long": -61.8},
